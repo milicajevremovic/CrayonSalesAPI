@@ -1,4 +1,5 @@
 ﻿using Crayon.Crayon.Domain;
+using Crayon.Crayon.Licences.Queries;
 using Crayon.Infrastructure.Common;
 using Crayon.Infrastructure.Repositories;
 using MediatR;

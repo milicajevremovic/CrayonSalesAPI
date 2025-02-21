@@ -1,5 +1,4 @@
-﻿using Crayon.Crayon.CCP;
-using Crayon.Infrastructure.Common;
+﻿using Crayon.Infrastructure.Common;
 using MediatR;
 using System;
 using System.Collections.Generic;

@@ -1,12 +1,16 @@
-# Crayon Sales API library 
+# Crayon Cloud Sales API  
 
-Hello, here is very short readme:
-/n=> Here I was going with a DDD approach,
-/n=> so I have used CQRS pattern,
-=> vertical slice folder structure,
-=> integrated SwaggerUI,
-=> returning minimum required status codes.
+## Overview  
+This project follows **Domain-Driven Design (DDD)** principles and implements the **CQRS** pattern with a **vertical slice folder structure**. The API integrates **Swagger UI** and ensures minimal but necessary **HTTP status codes** for clear responses.  
 
-For security We can add JWT, roles per users, (admin permission to specific endpoints) etc. But we can disscuss it while going through the code on our meeting.
+## Security Considerations  
+For enhanced security, features like **JWT authentication**, **role-based access control (RBAC)**, and **admin-specific permissions** can be added. These aspects can be discussed further during our code review meeting.  
 
-Swagger UI with required endpoints attached below: 
+## Features  
+- **CQRS (Command Query Responsibility Segregation)** for better separation of concerns  
+- **Vertical Slice Architecture** to structure the code efficiently  
+- **Swagger UI** integrated for API exploration  
+- **Minimal yet meaningful HTTP status codes** for proper error handling  
+
+## API Documentation  
+Swagger UI with all required endpoints is available. You can explore the API using the attached Swagger documentation.  
